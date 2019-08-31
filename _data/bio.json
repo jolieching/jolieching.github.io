@@ -37,7 +37,7 @@
       "name": "virtual reality,
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -66,7 +66,7 @@
       "startDate": "Fall 2018",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["ICS 111", "ICS 211", "ICS 141", "ICS 241", "ICS 212 [current]", "ICS 314 [current]",]
+      "courses": ["ICS 111", "ICS 211", "ICS 141", "ICS 241", "ICS 212 (current)", "ICS 314 (current)",
       ]
     }
   ],
@@ -159,7 +159,7 @@
       "date": "2019",
       "awarder": "Native Hawaiian Student Services",
       "summary": ""
-     },
+     }
   ],
    "grants": [
     {
