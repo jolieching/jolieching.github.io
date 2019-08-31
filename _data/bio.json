@@ -31,20 +31,13 @@
     {
       "name": "web development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "virtual reality,
       "keywords": [
       ]
     },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -73,7 +66,7 @@
       "startDate": "Fall 2018",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["ICS 111", "ICS 211", "ICS 141", "ICS 241", "ICS 212 [current]", "ICS 314 [current]",]
       ]
     }
   ],
