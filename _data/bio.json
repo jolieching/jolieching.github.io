@@ -115,45 +115,74 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Friends of the Hawai'i Kai Library",
+      "position": "Student Volunteer",
       "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "endDate": "2018-05-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
+    },
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Manoa Regents Scholarship",
+      "date": "2018-2022",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Scholarship awarded to top 20 incoming freshmen who receive an SAT score of at least 1340, maintain at least a 3.5 GPA in high school, and whose extracurricular achievements are shown to be remarkable"
     },
     {
-      "title": "First place",
-      "date": "2015",
+      "title": "Ho’ona’auao Scholarship",
+      "date": "2018",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "summary": "Scholarship awarded to high-potential students pursuing undergraduate or graduate STEM degrees"
+    },
+    {
+      "title": "Honolulu Panhellenic Alumnae Scholarship",
+      "date": "2018",
+      "awarder": "Honolulu Panhellenic Alumnae Association",
+      "summary": "Scholarship awarded to “high schoolers who show a combination of academic achievement, leadership, and community service”"
+    },
+     {
+      "title": "National Merit Commended Scholar",
+      "date": "2017",
+      "awarder": "University of Hawaii Micromouse Competition",
+      "summary": "Awarded to top 2% of PSAT test-takers in the nation"
+    },
+     {
+      "title": "AAUW Scholarship",
+      "date": "2019",
+      "awarder": "American Association of University Women",
+      "summary": ""
+     },
+      {
+      "title": "Rotary Club of Honolulu Scholarship",
+      "date": "2019",
+      "awarder": "Rotary Club",
+      "summary": ""
+     }, 
+      {
+      "title": "CNS Native Hawaiian Scholarship",
+      "date": "2019",
+      "awarder": "Native Hawaiian Student Services",
+      "summary": ""
+     },
   ],
+   "grants": [
+    {
+      "title": "UROP Grant",
+      "date": "2019",
+      "awarder": "Undergraduate Research Opportunities Program",
+      "summary": "Project Title: Designing a Virtual Reality Visualization of Hawaiian Geographical Elements",
+      "Mentor: Dr. Jason Leigh, Professor of Information & Computer Sciences and Director of LAVA Lab"
+    },
+     {
+      "title": "Ku a Kukui Professional Development Grant",
+      "date": "2019",
+      "awarder": "Hawai’inuiakea School of Hawaiian Knowledge",
+      "summary": "Funded He Au Honua conference trip and trips to Keawanui, Moloka’i for Honors thesis project"
+    },
+     ]
   "references": [
     {
       "name": "Available upon request",
