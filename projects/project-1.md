@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/molokai.jpg
+title: Virtual Reality: Moloka'i
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
