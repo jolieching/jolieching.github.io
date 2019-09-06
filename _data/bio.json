@@ -2,11 +2,11 @@
   "basics": {
     "name": "Jolie Ching",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/jolie.png",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "joliec@hawaii.edu",
     "phone": "808-396-0831",
     "website": "https://jolieching.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96825",
@@ -124,27 +124,27 @@
       "title": "Manoa Regents Scholarship",
       "date": "2018-2022",
       "awarder": "University of Hawai'i at Manoa",
-      "summary": "Scholarship awarded to top 20 incoming freshmen who receive an SAT score of at least 1340, maintain at least a 3.5 GPA in high school, and whose extracurricular achievements are shown to be remarkable"
+      "summary": "Scholarship awarded to top 20 incoming freshmen who receive an SAT score of at least 1340, maintain at least a 3.5 GPA in high school, and whose extracurricular achievements are shown to be remarkable."
     },
     {
       "title": "Ho’ona’auao Scholarship",
       "date": "2018",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "Scholarship awarded to high-potential students pursuing undergraduate or graduate STEM degrees"
+      "summary": "Scholarship awarded to high-potential students pursuing undergraduate or graduate STEM degrees."
     },
-        {
+     {
       "title": "Honolulu Panhellenic Alumnae Scholarship",
       "date": "2018",
       "awarder": "Honolulu Panhellenic Alumnae Association",
-      "summary": "Scholarship awarded to “high schoolers who show a combination of academic achievement, leadership, and community service”"
-    },
-     {
+      "summary": "Scholarship awarded to high schoolers who show a combination of academic achievement, leadership, and community service"
+     },
+      {
       "title": "National Merit Commended Scholar",
       "date": "2017",
       "awarder": "University of Hawaii Micromouse Competition",
       "summary": "Awarded to top 2% of PSAT test-takers in the nation"
-    },
-     {
+     },
+      {
       "title": "AAUW Scholarship",
       "date": "2019",
       "awarder": "American Association of University Women",
@@ -156,7 +156,7 @@
       "awarder": "Rotary Club",
       "summary": ""
      }, 
-     {
+      {
       "title": "CNS Native Hawaiian Scholarship",
       "date": "2019",
       "awarder": "Native Hawaiian Student Services",
@@ -168,16 +168,16 @@
       "awarder": "Undergraduate Research Opportunities Program",
       "summary": "Project Title: Designing a Virtual Reality Visualization of Hawaiian Geographical Elements",
       "Mentor: Dr. Jason Leigh, Professor of Information & Computer Sciences and Director of LAVA Lab"
-    },
-     {
+     },
+      {
       "title": "Ku a Kukui Professional Development Grant",
       "date": "2019",
       "awarder": "Hawai’inuiakea School of Hawaiian Knowledge",
       "summary": "Funded He Au Honua conference trip and trips to Keawanui, Moloka’i for Honors thesis project"
-    }
+     }
   ],
   "references": [
-    {
+     {
       "name": "Available upon request",
       "reference": ""
     }
