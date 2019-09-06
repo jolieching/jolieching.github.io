@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jolie Ching",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/jolie.png",
     "email": "joliec@hawaii.edu",
     "phone": "808-396-0831",
     "website": "https://jolieching.github.io",
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "company": "American Indian Society and Engineering Society",
+      "company": "American Indian Science and Engineering Society",
       "position": "Web Developer",
       "website": "TBA",
       "startDate": "2019-08-01",
