@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jolie Ching",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/template/images/jolie.png",
     "email": "joliec@hawaii.edu",
     "phone": "808-396-0831",
     "website": "https://jolieching.github.io",
@@ -31,8 +31,6 @@
     {
       "name": "web development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -87,13 +85,14 @@
     },
     {
       "company": "American Indian Science and Engineering Society",
-      "position": "Web Developer",
+      "position": "Web Developer & Treasurer",
       "website": "TBA",
       "startDate": "2019-08-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developing a responsive WordPress application through WAMP"
+        "Developing a responsive WordPress application through WAMP",
+        "Manage AISES finance and budget, create funding proposals and presentations"
       ]
     },
       {
@@ -127,9 +126,9 @@
       "summary": "Scholarship awarded to top 20 incoming freshmen who receive an SAT score of at least 1340, maintain at least a 3.5 GPA in high school, and whose extracurricular achievements are shown to be remarkable."
     },
     {
-      "title": "Ho/’ona/’auao Scholarship",
+      "title": "Ho’ona’auao Scholarship",
       "date": "2018",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarship awarded to high-potential students pursuing undergraduate or graduate STEM degrees."
     },
      {
@@ -137,12 +136,6 @@
       "date": "2018",
       "awarder": "Honolulu Panhellenic Alumnae Association",
       "summary": "Scholarship awarded to high schoolers who show a combination of academic achievement, leadership, and community service"
-     },
-      {
-      "title": "National Merit Commended Scholar",
-      "date": "2017",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "Awarded to top 2% of PSAT test-takers in the nation"
      },
       {
       "title": "AAUW Scholarship",
