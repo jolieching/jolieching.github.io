@@ -5,12 +5,12 @@ image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-09-06
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Virtual Reality
+  - Unity
+  - C#
+summary: Developed a virtual reality visualization of Moloka'i's geographic features with the LAVA Lab.
 ---
 
 <div class="ui small rounded images">
@@ -20,11 +20,11 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+In September of last year, I was invited by Humanities Professor and Honors Program Director Vernadette Gonzalez to assist a Masters Candidate in Computer Science from the Laboratory of Advanced Visualizations and Applications in developing a virtual reality digitization of her upcoming book, Detours: A Decolonial Guide to Hawai'i. This anthology, coming in October of this year, is a collection of over 40 stories voicing the history and notable events of Hawai'i from the Native Hawaiian (Kanaka Maoli) perspective. An example of a story within the book is the development of Moloka'i's largest sustainable fish pond (loko i'a), Keawanui fishpond. This is particularly important to Native Hawaiian history and culture because the loko i'a was an important resource for Native Hawaiians and to have one today in modern society, shows a return to Kanaka Maoli ways of life through promoting food sustainability.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The goal of this project was to develop a virtual reality visualization of Moloka'i and the fish pond.
 
-Here is some code that illustrates how we read values from the line sensors:
+I will be presenting this project at the National Humanities Conference and the National American Indian Science and Engineering Society in October.
 
 ```js
 byte ADCRead(byte ch)
