@@ -6,7 +6,7 @@
     "email": "joliec@hawaii.edu",
     "phone": "808-396-0831",
     "website": "https://jolieching.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii with a certification in Hawaiian. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96825",
@@ -67,7 +67,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
-      "studyType": "B.S.",
+      "studyType": "B.S., Honors",
       "startDate": "Fall 2018",
       "endDate": "Present",
       "gpa": "",
