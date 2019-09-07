@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: Virtual Reality: Molokai
-permalink: projects/vacay
+permalink: projects/Molokai
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
