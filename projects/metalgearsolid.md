@@ -17,6 +17,6 @@ I have been a big fan of the legendary franchise, Metal Gear, since the release 
 
 Though it was a group project, I contributed heavily to the development of this game. Due to time constraints, I had to condense the story down into three parts: finding Grey Fox, destruction of Metal Gear, the battle with Big Boss. To complete our replica, we downloaded Metal Gear's assets and sprite sheets off the internet to use within Eclipse. Countless hours of debugging ensued.
 
-<img class="ui medium right floated rounded image" src="/images/Screenshot (208).png">
+<img class="ui medium left floated rounded image" src="/images/Screenshot (208).png">
 
 As this was my first (official) successful venture into coding (our game even recieved a prize from the course's professor), I began to understand that type of rewarding feeling that I'm sure many other programmers feel as well after completing a challenging project after many hours. That feeling of a job well done is one I wish to relive again throughout college and my career.
