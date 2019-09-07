@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Virtual Reality: Moloka'i
+title: Virtual Reality: Molokai
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
@@ -10,7 +10,7 @@ labels:
   - C#
   - Unity
   - Virtual Reality
-summary: Developed a virtual reality visualization of Moloka'i's geographic features with the LAVA Lab.
+summary: Developed a virtual reality visualization of Molokai's geographic features with the LAVA Lab.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
