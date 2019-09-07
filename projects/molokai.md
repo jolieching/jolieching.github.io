@@ -17,6 +17,6 @@ Last year, I was invited by Humanities Professor and Honors Program Director Ver
 
 The goal of this project was to develop a virtual reality visualization of Moloka'i and the fish pond. We did this within the Unity Engine and an industry standard VR headset, HTC Vive. With a grant we each applied for and recieved, we visited Keawanui multiple times throughout the year, capturing 360 degree videos of the area. In addition, we created our own assets to put in our virtual reality environment. In particular, I was in charge of developing assets of Molokai's geographic features such as the rain, wind, and moon -- all of which are essential features in Native Hawaiian culture. 
 
-<img class="ui medium left floated rounded image" src="/images/molokai.png">
+<img class="ui small left floated rounded image" src="/images/moon.png">
 
 I will be presenting this project at the National Humanities Conference and the National American Indian Science and Engineering Society in October.
