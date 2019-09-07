@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Virtual Reality: Moloka'i
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-09-06
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C#
+  - Unity
+  - Virtual Reality
+summary: Developed a virtual reality visualization of Moloka'i's geographic features with the LAVA Lab.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+In September of last year, I was invited by Humanities Professor and Honors Program Director Vernadette Gonzalez to assist a Masters Candidate in Computer Science from the Laboratory of Advanced Visualizations and Applications in developing a virtual reality digitization of her upcoming book, Detours: A Decolonial Guide to Hawai'i. This anthology, coming in October of this year, is a collection of over 40 stories voicing the history and notable events of Hawai'i from the Native Hawaiian (Kanaka Maoli) perspective. An example of a story within the book is the development of Moloka'i's largest sustainable fish pond (loko i'a), Keawanui fishpond. This is particularly important to Native Hawaiian history and culture because the loko i'a was an important resource for Native Hawaiians and to have one today in modern society, shows a return to Kanaka Maoli ways of life through promoting food sustainability.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The goal of this project was to develop a virtual reality visualization of Moloka'i and the fish pond.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I will be presenting this project at the National Humanities Conference and the National American Indian Science and Engineering Society in October.
