@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/molokai.jpg
+image: images/molokai.png
 title: Molokai Virtual Reality
 permalink: projects/molokai
 date: 2019-09-06
