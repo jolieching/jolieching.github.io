@@ -1,0 +1,18 @@
+---
+layout: project
+type: project
+image: images/kaleo.jpg
+title: Ka Leo O Hawai'i
+permalink: projects/kaleo
+date: 2015-07-01
+labels:
+  - CSS
+  - BLOX CMS
+summary: I am the web director of Ka Leo O Hawai'i, the campus newspaper.
+---
+
+<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
+
+As the web director of Ka Leo O Hawai'i, I have many responsibilite: some of which, include covering daily news, refining the site's user interface and experience, and posting and designing web articles. 
+
+The content mangement system behind Ka Leo is BLOX.
