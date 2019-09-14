@@ -4,7 +4,7 @@ type: project
 image: images/cab5ef3c-58d6-11e6-82a9-ebc23d33d9af.jpg
 title: Ka Leo O Hawai'i
 permalink: projects/kaleo
-date: 2015-07-01
+date: 2019-09-01
 labels:
   - CSS
   - BLOX CMS
@@ -15,4 +15,4 @@ summary: I am the web director of Ka Leo O Hawai'i, the campus newspaper.
 
 As the web director of Ka Leo O Hawai'i, I have many responsibilites. Some examples of my everyday tasks include covering daily news, improving the user interface and experience of the <a href="https://manoanow.org/kaleo/">Ka Leo Website</a> through the BLOX Content Management System, editing news drafts, and posting and designing web articles. Though I have only been in this position for less than a year, I have already been challenged to improve my communication and time management skills to become a more effective leader. 
 
-One of Ka Leo's everyday struggles is finding reporters to write articles for the web (we are constantly understaffed). First and foremost, it is my job to keep the website updated with daily content on the happenings of anything UH Manoa. As one can imagine, this is a lot of ground for one person to cover. Because of this, I implemented the web PLAIO system in which writers and editors will have to sign up to do a weekly web article in each department: news, features, opinions, sports. In this way, I could get at least five web articles scheduled for a week in addition to our regular print edition. It was organizational changes like this that contributed to the development of a more active website.
+To illustrate this, one of Ka Leo's everyday struggles is finding reporters to write articles for the web (we are constantly understaffed). The responsibility of maintaining the website falls entirely on me so when I first took up the position, I would write the majority of the web articles we posted to the site. As one can imagine, this is a lot of ground for one person to cover and I realized I wouldn't be able to keep the pace up during the school year. Because of this, I implemented the web's PLAIO system in which writers and editors sign up to do a weekly web article in each department: news, features, opinions, sports. In this way, I could get at least five web articles scheduled for a week in addition to our regular print edition. It was organizational changes like this that contributed to the development of a more active website.
