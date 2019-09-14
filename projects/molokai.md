@@ -19,4 +19,4 @@ The goal of this project was to develop a virtual reality visualization of Molok
 
 <img class="ui medium left floated rounded image" src="/images/moon.png">
 
-I will be presenting this project at the National Humanities Conference and the National American Indian Science and Engineering Society in October. Because this doubles as my Undergraduate Research Opportunities Program (UROP) program, I will also present in December at the bi-annual UROP Showcase held at UH Manoa.
+I will be presenting this project at the National Humanities Conference and the National American Indian Science and Engineering Society in October. Because this doubles as my Undergraduate Research Opportunities Program (UROP) program, I will also present in December at UH Manoa's bi-annual UROP Showcase.
