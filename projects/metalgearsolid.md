@@ -13,7 +13,7 @@ summary: Developed an 8-bit replica of my favorite video game franchise, Metal G
 
 <img class="ui medium right floated rounded image" src="/images/metalgear.png">
 
-I have been a big fan of the legendary franchise, Metal Gear, since the release of Metal Gear Solid V: The Phantom Pain, which subsequently led me to playing every single game in the series. In my ICS 111 course, I was inspired to create an 8-bit replica of the first ever Metal Gear game for my final project.
+I have been a big fan of the legendary franchise, Metal Gear, since the release of <i>Metal Gear Solid V: The Phantom Pain</i>, which subsequently led me to playing every single game in the series. In my ICS 111 course, I was inspired to create an 8-bit replica of the first ever <i>Metal Gear</i> game for my final project.
 
 Though it was a group project, I contributed quite heavily to the development of this game. Due to time constraints, I had to condense the story down into three main parts: finding Grey Fox, destruction of Metal Gear, and the battle with Big Boss. To complete our replica, we downloaded Metal Gear's assets and sprite sheets off the internet to use within Eclipse. Countless hours of debugging ensued.
 
