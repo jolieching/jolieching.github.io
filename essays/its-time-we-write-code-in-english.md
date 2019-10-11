@@ -1,0 +1,19 @@
+---
+layout: essay
+type: essay
+title: It's Time We Write Code in English
+# All dates must be YYYY-MM-DD format!
+date: 2019-10-10
+labels:
+  - Semantic UI
+---
+
+<img src="https://i.pinimg.com/originals/17/17/c9/1717c9e5d46ddc3a2047b3e63b646f13.png" alt="Spongebob">
+
+## Semantic UI does it all
+The Semantic UI framework is literally english and as someone who has heavily considered double majoring in literature, I couldn't be any happier. Gone are the days of spending twenty minutes pieceing together attractive navigation bars and menus. When you can simply type "menu" or "button" to get, well, a menu and button, life becomes a lot easier and you start to wonder why these functions weren't simply built into HTML and CSS in the first place.
+
+Oftentimes, coding a single element in pure HTML/CSS can  feel somewhat like the above picture: spending an extravagant amount of time (that we don't have) to make and design very basic (yet essential) elements of our websites. Frameworks such as Semantic UI eliminates this time sink by providing an easy and efficient way to code staple website elements.
+
+## Or does it?
+All in all, Semantic UI is a great framework for newcomers to web design; however, for the more advanced, it lacks the capacity to accomodate more complex designs. Or it could just be that my inexperience with more complex CSS designs is hindering me from properly using Semantic UI. Nevertheless, as we get further into web design, I want to begin focusing on ways I can utilize these frameworks to their fullest extent.
