@@ -11,7 +11,7 @@ labels:
 <img class="ui medium left floated image" src="../images/1717c9e5d46ddc3a2047b3e63b646f13.png">
 
 ## Semantic UI does it all
-The Semantic UI framework is literally english and as someone who has heavily considered double majoring in literature, I couldn't be any happier. Gone are the days of spending twenty minutes desperately piecing together navigation bars and menus that you hope might not look like they're from the 1980s. When you can simply type "menu" or "icon" to get, well, a menu and icon that are actually attractive, life becomes a lot easier and you start to wonder why these functions weren't simply built into HTML and CSS in the first place.
+The Semantic UI framework is literally English and as someone who has heavily considered double majoring in literature, I couldn't be any happier. Gone are the days of spending twenty minutes desperately piecing together navigation bars and menus that you hope might not look like they're from the 1980s. When you can simply type "menu" or "icon" to get, well, a menu and icon that are actually attractive, life becomes a lot easier and you start to wonder why these functions weren't simply built into HTML and CSS in the first place.
 
 Oftentimes, coding a single element in pure HTML/CSS can  feel somewhat like the above picture from Spongebob: spending an extravagant amount of time (that we don't have) to make and design very basic (yet essential) elements of our websites. Frameworks such as Semantic UI eliminate this time sink by providing an easy and efficient way to code staple website elements.
 
