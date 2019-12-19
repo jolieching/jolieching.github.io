@@ -50,16 +50,22 @@
       "level": "",
       "keywords": [
         "C#",
-        "Java"
+        "Java",
+        "C++",
+        "HTML/CSS",
+        "JavaScript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows OS",
         "Unity",
-        "WAMP"
+        "IntelliJ IDEA",
+        "Eclipse",
+        "Github",
+        "Microsoft Visual Studio"
       ]
     }
   ],
@@ -77,6 +83,17 @@
   ],
   "work": [
     {
+      "company": "Laboratory of Advanced Visualization and Applications (LAVA Lab)",
+      "position": "Summer Intern",
+      "startDate": "2019-05-24",
+      "endDate": "2019-08-10",
+      "summary": "",
+      "highlights": [
+        "Developing a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
+        "Demoed and presented prototypes at various conferences."
+      ]
+    },
+    {
       "company": "UH Manoa Ka Leo O Hawai'i",
       "position": "Web Director",
       "website": "https://www.manoanow.org/kaleo/",
@@ -90,26 +107,64 @@
       ]
     },
     {
-      "company": "American Indian Science and Engineering Society",
-      "position": "Web Developer & Treasurer",
-      "startDate": "2019-08-01",
+      "company": "Native Hawaiian Science and Engineering Mentorship Program",
+      "position": "Web Developer",
+      "startDate": "2019-05-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developing a responsive WordPress application through WAMP",
+        "Developing a responsive WordPress application through WAMP to increase awareness of Native Hawaiian academic programs",
         "Manage AISES finance and budget, create funding proposals and presentations"
       ]
-    },
-      {
-      "company": "Laboratory of Advanced Visualization and Applications (LAVA Lab)",
-      "position": "Summer Intern",
-      "startDate": "2019-05-24",
-      "endDate": "2019-08-10",
+    }
+  ],
+  "extracurriculars": [
+    {
+      "company": "American Indian Science and Engineering Society",
+      "position": "Treasurer",
+      "startDate": "2018-8-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developing a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
-        "Presented prototypes at the 2019 Lahui Hawai'i Research Conference and annual Native Hawaiian Science and Engineering Mentorship Program"
+        "Create funding proposals and presentations for indigenous educational and outreach events",
+        "Keep track of organizational budget and ledger"
       ]
+    },
+    {
+      "company": "Campus Center Board",
+      "position": "Rules & Policies Committee Member",
+      "startDate": "2018-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Review, research, and advise Board on changes to terms and conditions of Campus Center Board Charter, bylaws, policies, and procedures"
+      ]
+    },
+    {
+      "company": "First Nations Launch",
+      "position": "Simulations Lead",
+      "startDate": "2018-11-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "A competition for college students to design, build, and fly a high-powered rocket.\n",
+        "Lead simulations designer for testing of accuracy of rocket flight path via OpenRocket and MissileWorks Data Acquisition and Configuration (mDAQ)"
+      ]
+    }
+  ],
+  "grants": [
+    {
+      "title": "Undergraduate Research Opportunities Grant",
+      "date": "2019",
+      "awarder": "Undergraduate Research Opportunities Program",
+      "summary": "Project Title: Designing a Virtual Reality Visualization of Hawaiian Geographical Elements",
+      "Mentor": "Dr. Jason Leigh, Professor of Information & Computer Sciences and Director of LAVA Lab"
+    },
+    {
+      "title": "Ku a Kukui Professional Development Grant",
+      "date": "2019",
+      "awarder": "Hawai’inuiakea School of Hawaiian Knowledge",
+      "summary": "Funded He Au Honua conference trip and trips to Keawanui, Moloka’i for Honors thesis project"
     }
   ],
   "awards": [
@@ -148,20 +203,29 @@
       "date": "2019",
       "awarder": "Native Hawaiian Student Services",
       "summary": ""
-     },
-      {
-      "title": "UROP Grant",
-      "date": "2019",
-      "awarder": "Undergraduate Research Opportunities Program",
-      "summary": "Project Title: Designing a Virtual Reality Visualization of Hawaiian Geographical Elements",
-      "Mentor": "Dr. Jason Leigh, Professor of Information & Computer Sciences and Director of LAVA Lab"
-     },
-      {
-      "title": "Ku a Kukui Professional Development Grant",
-      "date": "2019",
-      "awarder": "Hawai’inuiakea School of Hawaiian Knowledge",
-      "summary": "Funded He Au Honua conference trip and trips to Keawanui, Moloka’i for Honors thesis project"
      }
+  ],
+  "conferences": [
+    {
+      "title": "Lahui Hawai'i Research Center Student Conference",
+      "date": "2018",
+      "summary": "Ching, J., Noe, K. (2018, Nov.), Digitizing Detours: Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 30-minute presentation at the Lahui Hawai’i Research Center Student Conference, University of Hawai’i at Manoa, Hawai’i."
+    },
+    {
+      "title": "American Indian Science and Engineering Society",
+      "date": "2019",
+      "summary": "Ching, J. (2019, Oct.), Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 2-hour poster presentation at the American Indian Science and Engineering Society National Conference, Milwaukee, Wisconsin."
+    },
+    {
+      "title": "American Studies Association National Conference",
+      "date": "2019",
+      "summary": "Ching, J., Noe, K. (2019, Nov.), Digitizing Detours: Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 3-hour live demo at the American Studies Association National Conference, Honolulu, Hawai’i."
+    },
+    {
+      "title": "Undergraduate Research Opportunities Program Conference",
+      "date": "2019",
+      "summary": "Ching, J. (2019, Dec.), Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. Undergraduate Research Opportunities Program Conference, University of Hawai’i at Manoa, Hawai’i."
+    }
   ],
   "references": [
      {
