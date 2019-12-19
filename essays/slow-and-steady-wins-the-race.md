@@ -18,9 +18,9 @@ After spending several months in my first 300-level computer science course, it'
 
 I tried to be more mindful of this tendency, especially for my sophomore year. With that being said, the issue-driven project management style hit home for me. For those unfamiliar with this project management style, it is essentially a method to divide a big project into manageable tasks. It made my life so much easier. Every time I closed an issue, I felt a sense of accomplishment that encouraged me to continue working on the project. At the same time, however, I also was able to work in more manageable and healthy intervals.
 
-With that being said, I have also found an alternative to the GitHub milestone boards: an app called Trello. It employs the same issue-driven project management philosophy that I believe will help me navigate through a college student's many tasks.
-
 <img class="ui medium left floated image" src="../images/01.jpg">
+
+With that being said, I have also found an alternative to the GitHub milestone boards: an app called Trello. It employs the same issue-driven project management philosophy that I believe will help me navigate through a college student's many tasks.
 
 ## Know when to call it a day
 
