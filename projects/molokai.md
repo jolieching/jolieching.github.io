@@ -19,4 +19,8 @@ The goal of this project was to develop a virtual reality visualization of Molok
 
 <img class="ui medium left floated rounded image" src="/images/Screenshot02.png">
 
-I presented this project at serveral conferences such as the the American Studies Association Conference and the National American Indian Science and Engineering Society in October. Because this doubles as my Undergraduate Research Opportunities Program (UROP) program, I also presented at UH Manoa's bi-annual UROP Showcase.
+I presented this project at several conferences such as:
+* Ching, J., Noe, K. (2018, Nov.), Digitizing Detours: Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 30-minute presentation at the Lahui Hawai’i Research Center Student Conference, University of Hawai’i at Manoa, Hawai’i. 
+* Ching, J. (2019, Oct.), Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 2-hour poster presentation at the American Indian Science and Engineering Society National Conference, Milwaukee, Wisconsin.
+* Ching, J., Noe, K. (2019, Nov.), Digitizing Detours: Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. 3-hour live demo at the American Studies Association National Conference, Honolulu, Hawai’i.
+* Ching, J. (2019, Dec.), Developing a Virtual Reality Visualization of Native Hawaiian Place Knowledge. Undergraduate Research Opportunities Program Conference, University of Hawai’i at Manoa, Hawai’i. 
