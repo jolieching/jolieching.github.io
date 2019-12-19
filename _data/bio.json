@@ -83,17 +83,6 @@
   ],
   "work": [
     {
-      "company": "Laboratory of Advanced Visualization and Applications (LAVA Lab)",
-      "position": "Summer Intern",
-      "startDate": "2019-05-24",
-      "endDate": "2019-08-10",
-      "summary": "",
-      "highlights": [
-        "Developing a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
-        "Demoed and presented prototypes at various conferences."
-      ]
-    },
-    {
       "company": "UH Manoa Ka Leo O Hawai'i",
       "position": "Web Director",
       "website": "https://www.manoanow.org/kaleo/",
@@ -104,6 +93,17 @@
         "Head of online presence for Ka Leo",
         "Maintain, update, and oversee official college newspaper website",
         "Refine and develop site’s user experience and interface with BLOX CMS"
+      ]
+    },
+    {
+      "company": "Laboratory of Advanced Visualization and Applications (LAVA Lab)",
+      "position": "Summer Intern",
+      "startDate": "2019-05-24",
+      "endDate": "2019-08-10",
+      "summary": "",
+      "highlights": [
+        "Developing a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
+        "Demoed and presented prototypes at various conferences."
       ]
     },
     {
@@ -120,7 +120,7 @@
     {
       "company": "American Indian Science and Engineering Society",
       "position": "Treasurer",
-      "startDate": "2018-8-01",
+      "startDate": "2019-8-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -131,7 +131,7 @@
     {
       "company": "Campus Center Board",
       "position": "Rules & Policies Committee Member",
-      "startDate": "2018-10-01",
+      "startDate": "2019-10-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -141,7 +141,7 @@
     {
       "company": "First Nations Launch",
       "position": "Simulations Lead",
-      "startDate": "2018-11-01",
+      "startDate": "2019-11-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
