@@ -116,9 +116,7 @@
         "Developing a responsive WordPress application through WAMP to increase awareness of Native Hawaiian academic programs",
         "Manage AISES finance and budget, create funding proposals and presentations"
       ]
-    }
-  ],
-  "extracurriculars": [
+    },
     {
       "company": "American Indian Science and Engineering Society",
       "position": "Treasurer",
@@ -152,6 +150,7 @@
       ]
     }
   ],
+  
   "grant": [
     {
       "title": "Undergraduate Research Opportunities Grant",
