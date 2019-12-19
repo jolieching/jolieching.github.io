@@ -6,6 +6,7 @@ title: Slow and Steady Wins the Race
 date: 2019-12-18
 labels:
   - Software Engineering
+  - Issue-Driven Project Management
 ---
 
 <img class="ui medium left floated image" src="../images/The-Hare-and-the-Tortoise.jpg">
