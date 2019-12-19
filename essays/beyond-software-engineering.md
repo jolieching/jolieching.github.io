@@ -22,7 +22,12 @@ With that being said, I have also found an alternative to the GitHub milestone b
 <img class="ui medium left floated image" src="../images/01.jpg">
 
 ## Know when to call it a day
-This is perhaps one of the most important lessons that can be learned from any class. Poring over a single bug for more than three to four hours is neither helpful for you, your team members, or your sanity. In fact, it is quite harmful. It is human nature to lose interest in things that do not immediately or foreseeably produce desirable results (or perhaps this is only the product of a generation that has grown accustomed to instant gratification systems). Whether you are working by yourself or with a team, one of the most challenging obstacles in any project is to maintain a good morale. Otherwise, you'll get burned out and even dread working on the project.
+
+<img class="ui medium left floated image" src="../images/omg.jpg">
+
+This is perhaps one of the most important lessons that can be learned from any class. Poring over a single bug for more than three to four hours is neither helpful for you, your team members, or your sanity. In fact, it is quite harmful. It is human nature to lose interest in things that do not immediately or foreseeably produce desirable results (or perhaps this is only the product of a generation that has grown accustomed to instant gratification systems). Whether you are working by yourself or with a team, one of the most challenging obstacles in any project is to maintain a good morale. Otherwise, you'll get burned out and even dread working on the project. No programmer is exempt from this.
+
+It is so important to take care of oneself and realize that one is not infallible to the consequences of burn out. This is where an effective Agile project management style can help save the day. At this point, I know sound like an advertisement but viewing project in terms of small tasks has revolutionized the way I view programming. For example, instead of saying "I'll finish the landing page by the end of this week," you can instead say "I'll finish implementing this button by today and this form by tomorrow." It is just so much more easier on your mental health and morale to view things in terms of what is accomplishable in a relatively short amount of time.
 
 
 
