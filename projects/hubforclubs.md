@@ -21,6 +21,6 @@ summary: A web application providing a centralized directory for UH Manoa clubs.
 This was my first time collaborating using GitHub and with such a large group (four people). Well, four people may not seem like such a large number when you are all working on the same project, committing hundreds of lines of code, it can get hard NOT to step on each other's toes. I found it mo
 
 
-[Source Code](https://github.com/Hub-for-Clubs/Hub-for-Clubs)
+[Github Repository](https://github.com/Hub-for-Clubs/Hub-for-Clubs)
 [Project Page](https://hub-for-clubs.github.io/)
 -->
