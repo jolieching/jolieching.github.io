@@ -15,7 +15,6 @@ summary: A web application providing a centralized directory for UH Manoa clubs.
 
 <img class="ui medium right floated rounded image" src="/images/final_clubexplorer.png">
 
-<!---
 [Hub for Clubs](https://hub-for-clubs.meteorapp.com/#/) is a web application I developed for my software engineering course. It is a centralized directory of all registered clubs at UH Manoa and allows its users to find clubs that match their interests. I was in charge of the style and the deployment of the site.
 
 This was my first time collaborating using GitHub and with such a large group (four people). Well, four people may not seem like such a large number when you are all working on the same project, committing hundreds of lines of code, it can become challenging NOT to step on each other's toes. Fortunately, however, it mutually encouraged us to stay in communication with each other and regularly check our group chat.
@@ -24,4 +23,3 @@ The biggest difference between group and individual projects is the fact that in
 
 [Github Repository](https://github.com/Hub-for-Clubs/Hub-for-Clubs)
 [Project Page](https://hub-for-clubs.github.io/)
--->
