@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/final_landing.png
 title: Hub for Clubs
-permalink: projects/kaleo
-date: 2019-09-18
+permalink: projects/hubforclubs
+date: 2019-12-18
 labels:
   -  Meteor
   - Galaxy
