@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/slothwall.jpg
 title: Sloth Wall Event Planner
-permalink: projects/eventplanner
+permalink: projects/kaleo
 date: 2020-8-18
 labels:
   - Express
