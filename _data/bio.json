@@ -51,7 +51,6 @@
       "keywords": [
         "C#",
         "Java",
-        "C++",
         "HTML/CSS",
         "JavaScript"
       ]
@@ -63,8 +62,8 @@
         "Windows OS",
         "Unity",
         "IntelliJ IDEA",
-        "Eclipse",
         "Github",
+        "React",
         "Microsoft Visual Studio"
       ]
     }
@@ -73,7 +72,7 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
-      "studyType": "B.S., Honors",
+      "studyType": "B.S.",
       "startDate": "Fall 2018",
       "endDate": "Present",
       "gpa": "",
@@ -84,37 +83,27 @@
   "work": [
     {
       "company": "UH Manoa Ka Leo O Hawai'i",
-      "position": "Web Director",
+      "position": "Managing Editor",
       "website": "https://www.manoanow.org/kaleo/",
-      "startDate": "2018-10-01",
+      "startDate": "2018-8-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Head of online presence for Ka Leo",
-        "Maintain, update, and oversee official college newspaper website",
-        "Refine and develop site’s user experience and interface with BLOX CMS"
+        "Enforcing Ka Leo’s policies and procedures, including workflow and code of ethics",
+        "Update and maintain all personnel and stipend records; create and submit weekly pay logs",
+        "Coordinating and establishing deadlines with staff, supervising their progress via weekly check-ins",
+        "Handling communication platforms for staff on Slack and through email"
       ]
     },
     {
-      "company": "Laboratory of Advanced Visualization and Applications (LAVA Lab)",
+      "company": "Native Hawaiian Science and Engineering Mentorship Summer Program",
       "position": "Summer Intern",
       "startDate": "2019-05-24",
       "endDate": "2019-08-10",
       "summary": "",
       "highlights": [
-        "Developing a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
+        "Partnered with CS grad student to devleop a virtual reality visualization of Moloka’i based on Hawaiian cartography in collaboration with the LAVA Lab and Honors Program Director Vernadette Gonzalez and Masters Candidate in Computer Science, Kari Noe",
         "Demoed and presented prototypes at various conferences."
-      ]
-    },
-    {
-      "company": "Native Hawaiian Science and Engineering Mentorship Program",
-      "position": "Web Developer",
-      "startDate": "2019-05-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Developing a responsive WordPress application through WAMP to increase awareness of Native Hawaiian academic programs",
-        "Manage AISES finance and budget, create funding proposals and presentations"
       ]
     },
     {
@@ -131,24 +120,13 @@
     {
       "company": "Campus Center Board",
       "position": "Rules & Policies Committee Member",
-      "startDate": "2019-10-01",
+      "startDate": "2019-8-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
         "Review, research, and advise Board on changes to terms and conditions of Campus Center Board Charter, bylaws, policies, and procedures"
       ]
     },
-    {
-      "company": "First Nations Launch",
-      "position": "Simulations Lead",
-      "startDate": "2019-11-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "A competition for college students to design, build, and fly a high-powered rocket.\n",
-        "Lead simulations designer for testing of accuracy of rocket flight path via OpenRocket and MissileWorks Data Acquisition and Configuration (mDAQ)"
-      ]
-    }
   ],
 
   "awards": [
