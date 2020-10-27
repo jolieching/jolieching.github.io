@@ -10,7 +10,7 @@ labels:
   - Heroku
   - React
   - JavaScript
-summary: A web event planner application.
+summary: A web event planner application according to RFC 5545 Specification.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/SlothWall2.jpg">
