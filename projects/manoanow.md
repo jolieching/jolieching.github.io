@@ -4,7 +4,7 @@ type: project
 image: images/final_landing.png
 title: Manoa Now
 permalink: projects/hubforclubs
-date: 2021-2-1
+date: 2021-02-01
 labels:
   -  Firebase
   - React Native
